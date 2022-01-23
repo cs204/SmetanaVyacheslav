@@ -1,2 +1,0 @@
-# SmetanaVyacheslav
-psets
